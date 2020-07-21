@@ -1,0 +1,22 @@
+name: HystoricEssentials
+main: net.hystoric.essentials.Main
+author: [Hystoric]
+version: 1.0
+
+commands:
+   lag:
+   curar:
+   voar:
+   chat:
+   grupo:
+   clear:
+   checar:
+   fechar:
+   aviso:
+   permissao:
+   remover:
+   memory:
+   dia:
+   noite:
+   chunk:
+   titulo:
