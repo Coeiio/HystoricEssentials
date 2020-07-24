@@ -1,8 +1,5 @@
-# SouthCrash
-Plugin para crashar jogadores. Use com sabedoria.
-
-# Permissão
-- south.crash
+# HystoricEssentials
+Plugin que estou desenvolvendo para meu servidor.
 
 # Contato
-- Discord: Smart#6889
+- Discord: Coelho#3741
